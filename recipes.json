@@ -1,0 +1,72 @@
+{
+    "Vietnamese food": [
+      {
+        "longDescription": "Hot and sour Thai hot pot is a delicious weekend dish, for a family party. How to cook delicious and spicy Thai seafood hotpot at home will have a sweet and sour broth from lemongrass and chili, stimulating the taste buds, making it more appetizing. In particular, on cold days, sitting around a hot and sour Thai hot pot emitting a strong aroma is heartwarming. Immediately save the right way to cook Thai hot pot right here.",
+        "thumbnail": "https://tue0305.github.io/images/hotpot/01.jpg",
+        "title": "Hot and sour Thai hot pot",
+        "videoType": "mp4",
+        "url": "https://tue0305.github.io/videos/hotpot/01.jpg",
+        "quality": "HD"
+      },
+      {
+        "longDescription": "When you love something, you protect it. Watch the brand new trailer for Marvel Studios' Eternals. Arriving in theaters November 5.",
+        "thumbnail": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/1.jpeg",
+        "title": "Marvel Studios’ Eternals | Final Trailer",
+        "videoType": "mp4",
+        "url": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/1.mp4",
+        "quality": "HD"
+      },
+      {
+        "longDescription": "Watch the brand new trailer for Marvel Studios’ Shang-Chi and the Legend of the Ten Rings and experience it only in theaters September 3.",
+        "thumbnail": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/2.jpeg",
+        "title": "Marvel Studios’ Shang-Chi and the Legend of the Ten Rings",
+        "videoType": "mp4",
+        "url": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/2.mp4",
+        "quality": "HD"
+      }
+    ],
+    "Movie": [
+      {
+        "longDescription": "During World War II, Steve Rogers decides to volunteer in an experiment that transforms his weak body. He must now battle a secret Nazi organisation headed by Johann Schmidt to defend his nation.",
+        "thumbnail": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/6.jpeg",
+        "title": "Marvel Studios’ Captain America: The First Avenger Trailer",
+        "videoType": "mp4",
+        "url": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/6.mp4",
+        "quality": "HD"
+      },
+      {
+        "longDescription": "Natasha Romanoff, a former KGB spy, is shocked to find out that her ex handler, General Dreykov, is still alive. While evading capture by Taskmaster, she is forced to confront her dark past.",
+        "thumbnail": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/7.jpeg",
+        "title": "Marvel Studios’ Black Widow Trailer",
+        "videoType": "mp4",
+        "url": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/7.mp4",
+        "quality": "HD"
+      },
+      {
+        "longDescription": "Superheroes are often as popular as celebrities, as influential as politicians, and sometimes even as revered as gods.",
+        "thumbnail": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/8.jpeg",
+        "title": "The Boys - Final Trailer | Prime Video",
+        "videoType": "mp4",
+        "url": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/8.mp4",
+        "quality": "HD"
+      },
+      {
+        "longDescription": "Doctor Strange in the Multiverse of Madness is an upcoming American superhero film based on the Marvel Comics character Doctor Strange. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures",
+        "thumbnail": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/9.jpeg",
+        "title": "Marvel Studios' Doctor Strange in the Multiverse of Madness",
+        "videoType": "mp4",
+        "url": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/9.mp4",
+        "quality": "HD"
+      },
+      {
+        "longDescription": "Watch the brand new trailer for Marvel Studios’ Shang-Chi and the Legend of the Ten Rings and experience it only in theaters September 3.",
+        "thumbnail": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/10.jpeg",
+        "title": "Marvel Studios’ Hawkeye | Official Trailer | Disney+",
+        "videoType": "mp4",
+        "url": "https://duonglh711-roku-demo.s3.us-east-2.amazonaws.com/10.mp4",
+        "quality": "HD"
+      }
+    ]
+
+    
+  }
