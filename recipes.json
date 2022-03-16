@@ -50,6 +50,32 @@
         "url": "https://tue0305.github.io/videos/salad/03.mp4",
         "quality": "HD"
       }
+    ],
+    "Meat": [
+      {
+        "longDescription": "Apple salmon salad with yogurt sauce is a great combination for you to add more nutrition to your family's health-promoting menu. The sour taste from yogurt and green apple will help balance the fatty taste of salmon, also help you digest easier. Knorr's recipe for salmon apple salad with yogurt sauce is sure to satisfy you without spending a lot of time in the kitchen.",
+        "thumbnail": "https://tue0305.github.io/images/salad/01.jpg",
+        "title": "Apple salmon salad",
+        "videoType": "mp4",
+        "url": "https://tue0305.github.io/videos/salad/01.mp4",
+        "quality": "HD"
+      },
+      {
+        "longDescription": "Red Queen Corn is a type of corn that must be quite new to consumers, this is the first sweet corn variety in Vietnam that can be eaten raw without having to undergo processing. This type of corn can be combined with many ingredients to form different dishes, including corn salad with eye-catching and attractive colors. Red Queen Corn Salad is a new, strange but very delicious and nutritious salad that is suitable for every family meal. Let's join Nova in the kitchen to make this easy and super delicious Red Queen Corn Salad!",
+        "thumbnail": "https://tue0305.github.io/images/salad/02.jpg",
+        "title": "Red Queen Corn Salad",
+        "videoType": "mp4",
+        "url": "https://tue0305.github.io/videos/salad/02.mp4",
+        "quality": "HD"
+      },
+      {
+        "longDescription": "If brown rice is an indispensable part for those of you who want to apply a weight loss diet or eat healthy. You can choose salmon brown rice marinated in Barona's lemongrass sauce, your nutritious diet will be enough without worrying about boredom.",
+        "thumbnail": "https://tue0305.github.io/images/salad/03.jpg",
+        "title": "Lemongrass salmon brown rice",
+        "videoType": "mp4",
+        "url": "https://tue0305.github.io/videos/salad/03.mp4",
+        "quality": "HD"
+      }
     ]
 
     
